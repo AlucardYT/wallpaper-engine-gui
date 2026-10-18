@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Wallpaper Engine
+Comment=Escolher wallpapers do Wallpaper Engine (via Caelestia)
+Exec=wallpaper-engine-gui
+Icon=livewallpaper
+Categories=Utility;Settings;DesktopSettings;
+StartupNotify=true
+StartupWMClass=io.github.alucky.WallpaperEngine
